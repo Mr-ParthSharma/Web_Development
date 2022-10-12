@@ -1,2 +1,3 @@
 # Web_Development
-Just my Resume
+
+Projects done as a pratice mode
