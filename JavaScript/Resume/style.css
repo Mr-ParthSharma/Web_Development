@@ -1,0 +1,65 @@
+body{
+    margin: 10%;
+    padding: 0%;
+}
+#resume{
+    display: none;
+}
+#header {
+    background-color: lightcoral;
+    text-align: center;   
+}
+h4,h3{
+    text-decoration: underline;
+    text-transform: capitalize;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h2{
+    font-weight: bold;
+    font-style: italic;
+}
+
+#summary > p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular';
+}
+section >article> h1{
+    font-size: 250%;
+    text-align: center;
+    position: relative;
+    left: 170px;
+}
+section{
+    background-color: antiquewhite;
+    height: 400px;
+}
+article{
+    width: 40%;
+}
+#article-2{
+    position: relative;
+    left: 50%;
+    top: -320px;
+}
+#education > h1{
+    text-align: center;
+}
+#education > table{
+    font-size: large;
+    position: relative;
+    left: 100px;
+}
+#education > table > thead{
+    font-size: 150%;
+}
+#education > table > tbody{
+    font-size: larger;
+} 
+#certified{
+    background-color: antiquewhite;
+}
+#certified > h1{
+    text-align: center;
+}
+#certified > ol > strong > li{
+    margin-top: 10px;
+}
